@@ -40,3 +40,14 @@
         - ('Carmen', 'Hernández', 'carmen.hernandez@email.com', 'Blockchain', '2023-10-15');
     
 ### Hacer un backup de la base de datos
+
+https://github.com/EzequielLeiblich/TP_Integrador_BasedeDatos_LeiblichE_23555/blob/main/README.md
+
+
+### Hacer una captura de la estructura de la tabla
+
+https://github.com/EzequielLeiblich/TP_Integrador_BasedeDatos_LeiblichE_23555/blob/main/localhost%20_%20127.0.0.1%20_%20integrador_cac%20_%20phpMyAdmin%205.2.1.pdf
+
+### Hacer una captura de los registros insertados 
+
+https://github.com/EzequielLeiblich/TP_Integrador_BasedeDatos_LeiblichE_23555/blob/main/localhost%20_%20127.0.0.1%20_%20integrador_cac%20_%20oradores%20_%20phpMyAdmin%205.2.1.pdf
