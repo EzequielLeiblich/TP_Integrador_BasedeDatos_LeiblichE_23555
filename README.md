@@ -46,7 +46,7 @@ https://github.com/EzequielLeiblich/TP_Integrador_BasedeDatos_LeiblichE_23555/bl
 
 ### Hacer una captura de la estructura de la tabla
 
-https://github.com/EzequielLeiblich/TP_Integrador_BasedeDatos_LeiblichE_23555/blob/main/localhost%20_%20127.0.0.1%20_%20integrador_cac%20_%20phpMyAdmin%205.2.1.pdf
+https://github.com/EzequielLeiblich/TP_Integrador_BasedeDatos_LeiblichE_23555/blob/main/ESTRUCTURA.pdf
 
 ### Hacer una captura de los registros insertados 
 
